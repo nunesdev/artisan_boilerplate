@@ -4,9 +4,13 @@
 
 - BOILERPLATE PARA DESENVOLVIMENTO WEB
 
-*Essse Boilerplate foi feito para facilitar seu desenvolvimento*
+*Simples Boilerplate feito para facilitar e acelerar seu desenvolvimento.*
 
-- Usando Sass/Scss 
+- Gulp
+- Sass/Scss
+- Uglify
+- Plumber
+- live-server
 
 ## ESTRUTURA DE PASTAS
 ----------------------
