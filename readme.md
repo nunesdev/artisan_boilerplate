@@ -11,31 +11,7 @@
 ## ESTRUTURA DE PASTAS
 ----------------------
 
-- root
-	L readme.md
-	L gulpfile
-	L package.json
-	L.gitignore
-
-- /public
-	index.html 
-	L css
-		L final.css ( cssnano )
-	L js
-		L final.js ( uglify )
-	L images
-
-- resources
-	L css
-	main.scss
-		L build
-			L variaveis
-			L grid
-			L normalize
-	L js
-		main.js
-			L build ( Bibliotecas Externas )
-
+![alt tag](estrutura_de_arquivos.jpg)
 
 ## INSTALAÇÃO
 -------------
