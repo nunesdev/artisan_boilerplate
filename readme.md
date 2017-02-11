@@ -2,9 +2,9 @@
 ----------------------
 
 
-- BOILER PLATE PARA DESENVOLVIMENTO WEB
+- BOILERPLATE PARA DESENVOLVIMENTO WEB
 
-*** Essse Boilerplate foi feito para facilitar seu desenvolvimento **
+*Essse Boilerplate foi feito para facilitar seu desenvolvimento*
 
 - Usando Sass/Scss 
 
@@ -12,6 +12,8 @@
 ----------------------
 
 ![alt tag](estrutura_de_arquivos.jpg)
+
+
 
 ## INSTALAÇÃO
 -------------
